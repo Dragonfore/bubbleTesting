@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">bubbleTesting</string>
+    
+    <string-array name="countries">
+        <item>China</item>
+        <item>Japan</item>
+        <item>Australia</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>China</item>
+        <item>Japan</item>
+        <item>Australia</item>
+    </string-array>
+
+    <string-array name="images">
+        <item>China</item>
+        <item>Japan</item>
+        <item>Australia</item>
+    </string-array>
+</resources>
